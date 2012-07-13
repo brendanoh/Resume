@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resume PUBLIC "-//Sean Kelly//DTD Resume 1.5.1//EN"
+"http://xmlresume.sourceforge.net/dtd/resume.dtd">
+
+<resume>
+	<header>
+		<name>Anthony A. Boyles</name>
+		<contact>
+			<phone>(617) 935 - 5515</phone>
+			<email>AABoyles@gmail.com</email>
+			<url>http://NorTalktooWise.com</url>
+		</contact>
+	</header>
+	<sections>
+		<education>
+			<heading>Education</heading>
+			<entry>Master of Science in International Affairs, December 2011
+				Georgia Institute of Technology Ivan Allen College, Atlanta, GA</entry>
+			<entry>Bachelor of Arts in International Studies and Computer Science, May 2010
+				Emory University College of Arts and Sciences, Atlanta, GA</entry>
+			<entry>Associate of Arts in Liberal Arts, August 2007
+				Oxford College of Emory University, Oxford, GA</entry>
+		</education>
+		<employment>
+			<heading>Employment</heading>
+			<entry>Data Science/Software Engineering Intern, Milcord llc,
+				Boston MA, Jan 2012 � Present
+				Supported active development of a Semantic Mediawiki platform for U.S. Marine Corps Civil Infrastructure data management
+				Produced path routing algorithms, user interfaces, and geospatial visualizations for U.S. Department of Defense</entry>
+			<entry>Graduate Research Assistant, Georgia Tech Office of Policy Analysis and Research, Atlanta, GA, Fall 2011
+				Developed Data Collection and Visualization tools for the Science and Technology Policy Explorer
+				Maintained the Mediawiki Platform for the Science and Technology Policy Primer</entry>
+			<entry>Research Assistant, Emory University Department of Political Science,
+				Atlanta, GA, Fall 2009 � Present (intermittent)
+				Mined and aggregated data from Supreme and Constitutional Court case files world-wide for analysis
+				Coded a dataset of unique United Nations Security Council action, derived from raw text of UN Security Council Resolutions</entry>
+			<entry>Teacher/Tutor, The Princeton Review,
+				Atlanta, GA, Jan. 2008 � May 2012
+				Tutor and teach the Princeton Review SAT (Jan. �08), ACT (June �09), and GRE (Jan. �11) courses, administer diagnostic examinations, advise students on the University application processes</entry>
+		</employment>
+		<other>
+			<heading>Other Research Experience</heading>
+			<entry>Intern, Georgia Tech Office of Policy Analysis and Research,
+				Atlanta, GA, Summer 2011
+				Coded a dataset of legislative characteristics from raw text of Science and Technology legislation originating in U.S. states' legislatures
+				Established Mediawiki platform for the Science and Technology Policy Primer</entry>
+			<entry>Independent Study, Georgia Tech Department of International Affairs,
+				Atlanta, GA, Spring and Fall 2011
+				Produce a proof-of-concept paper using Self-Organizing Maps to empirically identify the Democratic Peace
+				Researched the discrepancy between top-level policy and defense spending priorities in the U.S. Defense Budget</entry>
+		</other>
+		<publications>
+			<heading>Publications</heading>
+			<entry>Cassani, Laura, Alper Caglayan, Will Morgan, Liz Mooney, Anthony Boyles and Bryan Weiss. "Semantic Integration of Socio-Cultural Knowledge for Complex Operations".  4th International Conference on Applied Human Factors and Ergonomics (AHFE 2012).</entry>
+		</publications>
+		<presentations>
+			<heading>Presentations</heading>
+			<entry>Boyles, Anthony and Joshua Cothran. "PolicyExplorer: A Platform for Aggregation, Analysis, and Reporting". GTRI Technical Seminar: Big Data, Analytics & HPC. December 9th, 2011.</entry>
+		</presentations>
+		<skills>
+			<heading>Skills</heading>
+			<entry>Programming in Java, PHP, and R</entry>
+			<entry>Statistical Analysis in R and SPSS</entry>
+			<entry>Common Office applications in MS Office, LibreOffice</entry>
+			<entry>Administration of WordPress, Mediawiki and Drupal</entry>
+			<entry>System Dynamic Modeling using Stella, Netlogo, Graph Agebra</entry>
+			<entry>Agent-Based Modeling in Netlogo</entry>
+			<entry>Databasing in MySQL, PostgreSQL</entry>
+			<entry>Geospatial Analysis with ArcGIS, QuantumGIS</entry>
+			<entry>Formal Modeling (Game Theory)</entry>
+			<entry>Scenario Writing and Path Gaming</entry>
+			<heading>Interests</heading>
+			<entry>Methodological Interests include Quantitative Methods (Statistical, System Dynamic, and Agent-Based Modeling), and Formal (Game Theoretic) Modeling, Forecasting, Machine Learning</entry>
+			<entry>Substantive Interests include Assassinations, Inter- and Intra-state Conflict, Arms Markets, Science and Technology Policy, East Asian Politics</entry>
+		</skills>
+		<languages>
+			<heading>Languages</heading>
+			<entry>Intermediate (2+ years study) Proficiency in (Beijing) Spoken Mandarin Chinese</entry>
+			<entry>Native Spoken/Written Fluency in English</entry>
+		</languages>
+	</sections>
+</resume>
