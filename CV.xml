@@ -4,79 +4,315 @@
 
 <resume>
 	<header>
-		<name>Anthony A. Boyles</name>
+		<name id="aaboyles">
+			<firstname>Anthony</firstname>
+			<surname>Boyles</surname>
+		</name>
 		<contact>
-			<phone>(617) 935 - 5515</phone>
+			<phone location="mobile">(617) 935 - 5515</phone>
 			<email>AABoyles@gmail.com</email>
-			<url>http://NorTalktooWise.com</url>
+			<url>http://AABoyles.com</url>
 		</contact>
 	</header>
-	<sections>
-		<education>
-			<heading>Education</heading>
-			<entry>Master of Science in International Affairs, December 2011
-				Georgia Institute of Technology Ivan Allen College, Atlanta, GA</entry>
-			<entry>Bachelor of Arts in International Studies and Computer Science, May 2010
-				Emory University College of Arts and Sciences, Atlanta, GA</entry>
-			<entry>Associate of Arts in Liberal Arts, August 2007
-				Oxford College of Emory University, Oxford, GA</entry>
-		</education>
-		<employment>
-			<heading>Employment</heading>
-			<entry>Data Science/Software Engineering Intern, Milcord llc,
-				Boston MA, Jan 2012 � Present
-				Supported active development of a Semantic Mediawiki platform for U.S. Marine Corps Civil Infrastructure data management
-				Produced path routing algorithms, user interfaces, and geospatial visualizations for U.S. Department of Defense</entry>
-			<entry>Graduate Research Assistant, Georgia Tech Office of Policy Analysis and Research, Atlanta, GA, Fall 2011
-				Developed Data Collection and Visualization tools for the Science and Technology Policy Explorer
-				Maintained the Mediawiki Platform for the Science and Technology Policy Primer</entry>
-			<entry>Research Assistant, Emory University Department of Political Science,
-				Atlanta, GA, Fall 2009 � Present (intermittent)
-				Mined and aggregated data from Supreme and Constitutional Court case files world-wide for analysis
-				Coded a dataset of unique United Nations Security Council action, derived from raw text of UN Security Council Resolutions</entry>
-			<entry>Teacher/Tutor, The Princeton Review,
-				Atlanta, GA, Jan. 2008 � May 2012
-				Tutor and teach the Princeton Review SAT (Jan. �08), ACT (June �09), and GRE (Jan. �11) courses, administer diagnostic examinations, advise students on the University application processes</entry>
-		</employment>
-		<other>
-			<heading>Other Research Experience</heading>
-			<entry>Intern, Georgia Tech Office of Policy Analysis and Research,
-				Atlanta, GA, Summer 2011
-				Coded a dataset of legislative characteristics from raw text of Science and Technology legislation originating in U.S. states' legislatures
-				Established Mediawiki platform for the Science and Technology Policy Primer</entry>
-			<entry>Independent Study, Georgia Tech Department of International Affairs,
-				Atlanta, GA, Spring and Fall 2011
-				Produce a proof-of-concept paper using Self-Organizing Maps to empirically identify the Democratic Peace
-				Researched the discrepancy between top-level policy and defense spending priorities in the U.S. Defense Budget</entry>
-		</other>
-		<publications>
-			<heading>Publications</heading>
-			<entry>Cassani, Laura, Alper Caglayan, Will Morgan, Liz Mooney, Anthony Boyles and Bryan Weiss. "Semantic Integration of Socio-Cultural Knowledge for Complex Operations".  4th International Conference on Applied Human Factors and Ergonomics (AHFE 2012).</entry>
-		</publications>
-		<presentations>
-			<heading>Presentations</heading>
-			<entry>Boyles, Anthony and Joshua Cothran. "PolicyExplorer: A Platform for Aggregation, Analysis, and Reporting". GTRI Technical Seminar: Big Data, Analytics & HPC. December 9th, 2011.</entry>
-		</presentations>
-		<skills>
-			<heading>Skills</heading>
-			<entry>Programming in Java, PHP, and R</entry>
-			<entry>Statistical Analysis in R and SPSS</entry>
-			<entry>Common Office applications in MS Office, LibreOffice</entry>
-			<entry>Administration of WordPress, Mediawiki and Drupal</entry>
-			<entry>System Dynamic Modeling using Stella, Netlogo, Graph Agebra</entry>
-			<entry>Agent-Based Modeling in Netlogo</entry>
-			<entry>Databasing in MySQL, PostgreSQL</entry>
-			<entry>Geospatial Analysis with ArcGIS, QuantumGIS</entry>
-			<entry>Formal Modeling (Game Theory)</entry>
-			<entry>Scenario Writing and Path Gaming</entry>
-			<heading>Interests</heading>
-			<entry>Methodological Interests include Quantitative Methods (Statistical, System Dynamic, and Agent-Based Modeling), and Formal (Game Theoretic) Modeling, Forecasting, Machine Learning</entry>
-			<entry>Substantive Interests include Assassinations, Inter- and Intra-state Conflict, Arms Markets, Science and Technology Policy, East Asian Politics</entry>
-		</skills>
-		<languages>
-			<heading>Languages</heading>
-			<entry>Intermediate (2+ years study) Proficiency in (Beijing) Spoken Mandarin Chinese</entry>
-			<entry>Native Spoken/Written Fluency in English</entry>
-		</languages>
-	</sections>
+	<academics>
+		<degrees>
+			<degree>
+				<level>AA</level>
+				<date>
+					<month>May</month>
+					<year>2007</year>
+				</date>
+				<institution>Oxford College of Emory University</institution>
+			</degree>
+			<degree>
+				<level>BA</level>
+				<major>International Studies</major>
+				<major>Computer Science</major>
+				<date>
+					<month>May</month>
+					<year>2010</year>
+				</date>
+				<institution>Emory University</institution>
+			</degree>
+			<degree>
+				<level>MSIA</level>
+				<major>International Affairs</major>
+				<date>
+					<month>December</month>
+					<year>2011</year>
+				</date>
+				<institution>Georgia Institute of Technology</institution>
+			</degree>
+		</degrees>
+	</academics>
+	<history>
+		<job>
+			<jobtitle>Data Science/Software Engineering Intern</jobtitle>
+			<employer>Milcord llc</employer>
+			<location>
+				<city>Boston</city>
+				<state>Massachusetts</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>January</month>
+						<year>2012</year>
+					</date>
+				</from>
+				<to>
+					<present />
+				</to>
+			</period>
+			<projects>
+				<project title="MARCIMs">
+					<emphasis>Supported active development of a Semantic Mediawiki platform for U.S. Marine Corps Civil Infrastructure data management</emphasis>
+					<url>http://wiki.milcord.com/index.php/Marine_Corps_Civil_Information_Management_(MARCIM)_Semantic_Wiki</url>
+				</project>
+				<project title="dPlan">
+					<emphasis>Produced path routing algorithms, user interfaces, and geospatial visualizations for U.S. Department of Defense</emphasis>
+					<url>http://wiki.milcord.com/index.php/DPLAN</url>
+				</project>
+			</projects>
+		</job>
+		<job>
+			<jobtitle>Graduate Research Assistant</jobtitle>
+			<employer>Georgia Tech Research Institute, Office of Policy Analysis and Research</employer>
+			<location>
+				<city>Atlanta</city>
+				<state>Georgia</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>August</month>
+						<year>2011</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>December</month>
+						<year>2011</year>
+					</date>
+				</to>
+			</period>
+			<projects>
+				<project title="OPAR Science and Technology Policy Explorer">
+					<emphasis>Developed Data Collection and Visualization tools for the Science and Technology Policy Explorer</emphasis>
+				</project>
+				<project>
+					<emphasis>Maintained the Mediawiki Platform for the Science and Technology Policy Primer</emphasis>
+					<url>http://stipolicywiki.gatech.edu/</url>
+				</project>
+			</projects>
+		</job>
+		<job>
+			<jobtitle>Research Assistant</jobtitle>
+			<employer>Emory University, Department of Political Science</employer>
+			<location>
+				<city>Atlanta</city>
+				<state>Georgia</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>October</month>
+						<year>2009</year>
+					</date>
+				</from>
+				<to>
+					<present />
+				</to>
+			</period>
+			<projects>
+				<project title="Comparative Law Project">
+					<emphasis>Mined and aggregated data from Supreme and Constitutional Court case files world-wide for analysis</emphasis>
+					<url>http://cerl.wustl.edu/project/compLaw.php?pg=overview</url>
+				</project>
+				<project>
+					<emphasis>Coded a dataset of unique United Nations Security Council action, derived from raw text of UN Security Council Resolutions</emphasis>
+					<url>http://userwww.service.emory.edu/~kbeards/UNSCdata-dates&amp;votes-post.csv</url>	
+				</project>
+			</projects>
+		</job>
+		<job>
+			<jobtitle>Teacher/Tutor</jobtitle>
+			<employer>The Princeton Review</employer>
+			<location>
+				<city>Atlanta</city>
+				<state>Georgia</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>January</month>
+						<year>2008</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>May</month>
+						<year>2012</year>
+					</date>
+				</to>
+			</period>
+			<projects>
+				<project title="Teaching">
+					Teach SAT, ACT, and GRE classes and small groups instructions (SGIs), and administer diagnostic exams
+				</project>
+				<project title="Tutoring">
+					Tutor SAT and ACT students in one-on-one and small group tutorials, analyze diagnostic exam result
+				</project>
+			</projects>
+		</job>
+
+		<job targets="cs,ir,analytics,webdev">
+			<jobtitle>Intern</jobtitle>
+			<employer>Georgia Tech Research Institute, Office of Policy Analysis and Research</employer>
+			<location>
+				<city>Atlanta</city>
+				<state>Georgia</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>May</month>
+						<year>2011</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>August</month>
+						<year>2011</year>
+					</date>
+				</to>
+			</period>
+			<projects>
+				<project title="Science and Technology Legislative Landscape 2011" targets="cs,ir,analytics,webdev">
+					<emphasis>Coded a dataset of legislative characteristics from raw text of Science and Technology legislation originating in U.S. states' legislatures</emphasis>
+					<url>http://www.opar.gtri.gatech.edu/node/38</url>
+				</project>
+				<project title="Science and Technology Policy Primer" targets="cs,ir,analytics,webdev">
+					<emphasis>Established Mediawiki platform for the Science and Technology Policy Primer</emphasis>
+					<url>http://stipolicyprimer.gatech.edu/</url>
+				</project>
+			</projects>
+		</job>
+
+		<job targets="cs,ir,analytics">
+			<jobtitle>Independent Study</jobtitle>
+			<employer>Georgia Tech Department of International Affairs</employer>
+			<location>
+				<city>Atlanta</city>
+				<state>Georgia</state>
+			</location>
+			<period>
+				<from>
+					<date>
+						<month>January</month>
+						<year>2011</year>
+					</date>
+				</from>
+				<to>
+					<date>
+						<month>December</month>
+						<year>2011</year>
+					</date>
+				</to>
+			</period>
+			<projects>
+				<project title="du Jour and de facto Policy" targets="cs,ir,analytics">
+					<emphasis>Researched the discrepancy between top-level policy and defense spending priorities in the U.S. Defense Budget</emphasis>
+				</project>
+				<project title="Rediscovering the Democratic Peace: An Application of Self-Organizing Maps for the Analysis of Social Science Data" targets="cs,ir,analytics">
+					<emphasis>Produce a proof-of-concept paper using Self-Organizing Maps to empirically identify the Democratic Peace</emphasis>
+				</project>
+			</projects>
+		</job>
+	</history>
+	
+	<pubs>
+		<pub targets="cs,ir,analytics,webdev">
+			<author>Laura Cassani</author>
+			<author>Alper Caglayan</author>
+			<author>Will Morgan</author>
+			<author>Liz Mooney</author>
+			<author>Anthony Boyles</author>
+			<author>Bryan Weiss.</author>
+			<artTitle>Semantic Integration of Socio-Cultural Knowledge for Complex Operations</artTitle>
+			<publisher>4th International Conference on Applied Human Factors and Ergonomics</publisher>
+			<date>
+				<month>July</month>
+				<year>2012</year>
+			</date>
+		</pub>	
+
+		<pub targets="cs,ir,analytics,webdev">
+			<author>Anthony Boyles</author>
+			<author>Joshua Cothran</author>
+			<artTitle>PolicyExplorer: A Platform for Aggregation, Analysis, and Reporting</artTitle>
+			<publisher>GTRI Technical Seminar: Big Data, Analytics and HPC</publisher>
+			<date>
+				<dayOfMonth>9</dayOfMonth>
+				<month>December</month>
+				<year>2011</year>
+			</date>
+		</pub>
+	</pubs>
+	
+	<skillarea>
+		<title>Skills</title>
+		<skillset>
+			<skills>
+				<skill targets="cs,webdev">Java</skill>
+				<skill targets="cs,webdev">PHP</skill>
+				<skill targets="cs,analytics,ir">R</skill>
+				<skill targets="cs,webdev">Javascript</skill>
+				<skill targets="cs,webdev">PHP</skill>
+				<skill targets="cs,webdev">HTML</skill>
+				<skill targets="webdev">CSS</skill>
+				<skill targets="webdev">WordPress</skill>
+				<skill targets="webdev,analytics">Mediawiki</skill>
+				<skill targets="cs,webdev,analytics">Drupal</skill>
+				<skill targets="cs,webdev,analytics">MySQL</skill>
+				<skill targets="cs,webdev,analytics">PostgreSQL</skill>
+				<skill targets="cs,webdev,analytics">OpenLayers</skill>
+				<skill targets="cs,webdev,analytics,ir">Statistical Analysis</skill>
+				<skill targets="analytics">SPSS</skill>
+				<skill targets="cs,webdev,analytics">Semantic MediaWiki</skill>
+				<skill targets="analytics">System Dynamic Modeling</skill>
+				<skill targets="analytics">Stella</skill>
+				<skill targets="analytics">Netlogo</skill>
+				<skill targets="cs,analytics,ir">Agent-Based Modeling</skill>
+				<skill targets="cs,analytics">Netlogo</skill>
+				<skill targets="cs,webdev,analytics">Geographic Information Systems</skill>
+				<skill targets="analytics">ArcGIS</skill>
+				<skill targets="analytics">QuantumGIS</skill>
+				<skill targets="webdev,analytics">OpenLayers</skill>
+				<skill targets="analytics,ir">Formal Modeling</skill>
+				<skill targets="analytics,ir">Game Theory</skill>
+				<skill targets="analytics,ir">Scenario Writing</skill>
+				<skill targets="analytics,ir">Path Gaming</skill>
+			</skills>
+		</skillset>
+		<skillset id="languages" targets="analytics,ir">
+			<title>Languages</title>
+			<skill id="mandarin" level="beginning">Mandarin Chinese</skill>
+			<skill id="english" level="fluent">English</skill>
+		</skillset>
+	</skillarea>
+
+	<interests>
+		<interest targets="ir,analytics"><title>Assassinations</title></interest>
+		<interest targets="ir,analytics"><title>Interstate Conflict</title></interest>
+		<interest targets="ir,analytics"><title>Intrastate Conflict</title></interest>
+		<interest targets="ir,analytics"><title>Arms Markets</title></interest>
+		<interest targets="ir,analytics"><title>Science and Technology Policy</title></interest>
+		<interest targets="cs,analytics"><title>Data Mining</title></interest>
+		<interest targets="ir,cs,analytics"><title>Analytics</title></interest>
+		<interest targets="cs,analytics"><title>Geographic Information Systems</title></interest>
+		<interest targets="cs,analytics,webdev"><title>Semantic Data Systems</title></interest>
+		<interest targets="cs,webdev"><title>Content Management Systems</title></interest>
+	</interests>
+
 </resume>
