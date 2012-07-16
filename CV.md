@@ -17,34 +17,38 @@ Oxford College of Emory University, Oxford, GA
 
 Employment
 ----------
-Data Science/Software Engineering Intern, Milcord llc, Boston MA, Jan 2012 ñ Present
+Data Science/Software Engineering Intern, Milcord llc, Boston MA, Jan 2012-Present
 * Supported active development of a Semantic Mediawiki platform for U.S. Marine Corps Civil Infrastructure data management
 * Produced path routing algorithms, user interfaces, and geospatial visualizations for U.S. Department of Defense
 
-Graduate Research Assistant, Georgia Tech Office of Policy Analysis and Research, Atlanta, GA, Fall 2011
+Graduate Research Assistant, Georgia Tech Office of Policy Analysis and Research, Atlanta GA, Fall 2011
 * Developed Data Collection and Visualization tools for the Science and Technology Policy Explorer
 * Maintained the Mediawiki Platform for the Science and Technology Policy Primer
 
-Research Assistant, Emory University Department of Political Science, Atlanta, GA, Fall 2009 ñ Present (intermittent)
+Research Assistant, Emory University Department of Political Science, Atlanta GA, Fall 2009-Present (intermittent)
 * Mined and aggregated data from Supreme and Constitutional Court case files world-wide for analysis
 * Coded a dataset of unique United Nations Security Council action, derived from raw text of UN Security Council Resolutions
 
-Teacher/Tutor, The Princeton Review, Atlanta, GA, Jan. 2008 ñ May 2012
-* Tutor and teach the Princeton Review SAT (Jan. ë08), ACT (June ë09), and GRE (Jan. ë11) courses, administer diagnostic examinations, advise students on the University application processes
+Teacher/Tutor, The Princeton Review, Atlanta GA, January 2008-Present
+* Tutor and teach the Princeton Review SAT (Jan. '08), ACT (June '09), and GRE (Jan. '11) courses, administer diagnostic examinations, advise students on the University application processes
 
 Other Research Experience
 -------------------------
-Intern, Georgia Tech Office of Policy Analysis and Research, Atlanta, GA, Summer 2011
+Intern, Georgia Tech Office of Policy Analysis and Research, Atlanta GA, Summer 2011
 * Coded a dataset of legislative characteristics from raw text of Science and Technology legislation originating in U.S. states' legislatures
 * Established Mediawiki platform for the Science and Technology Policy Primer
 
-Independent Study, Georgia Tech Department of International Affairs, Atlanta, GA, Spring and Fall 2011
+Independent Study, Georgia Tech Department of International Affairs, Atlanta GA, Spring and Fall 2011
 * Produce a proof-of-concept paper using Self-Organizing Maps to empirically identify the Democratic Peace
 * Researched the discrepancy between top-level policy and defense spending priorities in the U.S. Defense Budget
 
 Publications
 ------------
-Cassani, Laura, Alper Caglayan, Will Morgan, Liz Mooney, Anthony Boyles and Bryan Weiss. "Semantic Integration of Socio-Cultural Knowledge for Complex Operations".  4th International Conference on Applied Human Factors and Ergonomics (AHFE 2012).
+Caglayan, Alper, Laura Cassani, Liz Mooney, Will Morgan, and Anthony Boyles."Semantic Technologies for Civil Information Management during Complex Emergencies".  IEEE Technologies for Homeland Defense (2012).
+
+Cassani, Laura, Alper Caglayan, Liz Mooney, Will Morgan, Anthony Boyles and Bryan Weiss, ‚ÄúMarine Corps Civil Information Management (MARCIM) Semantic Wiki‚Äù. WikiMania 2012 International Wikimedia Conference (2012).
+
+Cassani, Laura, Alper Caglayan, Will Morgan, Liz Mooney, Anthony Boyles and Bryan Weiss. "Semantic Integration of Socio-Cultural Knowledge for Complex Operations".  4th International Conference on Applied Human Factors and Ergonomics (2012).
 
 Invited Presentations
 ---------------------
