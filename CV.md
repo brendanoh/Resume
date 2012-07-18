@@ -46,8 +46,6 @@ Publications
 ------------
 Caglayan, Alper, Laura Cassani, Liz Mooney, Will Morgan, and Anthony Boyles."Semantic Technologies for Civil Information Management during Complex Emergencies".  IEEE Technologies for Homeland Defense (2012).
 
-Cassani, Laura, Alper Caglayan, Liz Mooney, Will Morgan, Anthony Boyles and Bryan Weiss, “Marine Corps Civil Information Management (MARCIM) Semantic Wiki”. WikiMania 2012 International Wikimedia Conference (2012).
-
 Cassani, Laura, Alper Caglayan, Will Morgan, Liz Mooney, Anthony Boyles and Bryan Weiss. "Semantic Integration of Socio-Cultural Knowledge for Complex Operations".  4th International Conference on Applied Human Factors and Ergonomics (2012).
 
 Invited Presentations
