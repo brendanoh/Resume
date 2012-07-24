@@ -1,0 +1,486 @@
+{
+    "resume": {
+        "header": {
+            "name": {
+                "-id": "aaboyles",
+                "firstname": "Anthony",
+                "surname": "Boyles"
+            },
+            "contact": {
+                "phone": {
+                    "-location": "mobile",
+                    "#text": "(617) 935 - 5515"
+                },
+                "email": "AABoyles@gmail.com",
+                "url": "http://AABoyles.com"
+            }
+        },
+        "academics": {
+            "degrees": {
+                "degree": [
+                    {
+                        "level": "AA",
+                        "date": {
+                            "month": "May",
+                            "year": "2007"
+                        },
+                        "institution": "Oxford College of Emory University"
+                    },
+                    {
+                        "level": "BA",
+                        "major": [
+                            "International Studies",
+                            "Computer Science"
+                        ],
+                        "date": {
+                            "month": "May",
+                            "year": "2010"
+                        },
+                        "institution": "Emory University"
+                    },
+                    {
+                        "level": "MSIA",
+                        "major": "International Affairs",
+                        "date": {
+                            "month": "December",
+                            "year": "2011"
+                        },
+                        "institution": "Georgia Institute of Technology"
+                    }
+                ]
+            }
+        },
+        "history": {
+            "job": [
+                {
+                    "jobtitle": "Data Science/Software Engineering Intern",
+                    "employer": "Milcord llc",
+                    "location": {
+                        "city": "Boston",
+                        "state": "Massachusetts"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "January",
+                                "year": "2012"
+                            }
+                        },
+                        "to": {}
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "MARCIMs",
+                                "emphasis": "Supported active development of a Semantic Mediawiki platform for U.S. Marine Corps Civil Infrastructure data management",
+                                "url": "http://wiki.milcord.com/index.php/Marine_Corps_Civil_Information_Management_(MARCIM)_Semantic_Wiki"
+                            },
+                            {
+                                "-title": "dPlan",
+                                "emphasis": "Produced path routing algorithms, user interfaces, and geospatial visualizations for U.S. Department of Defense",
+                                "url": "http://wiki.milcord.com/index.php/DPLAN"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "jobtitle": "Graduate Research Assistant",
+                    "employer": "Georgia Tech Research Institute, Office of Policy Analysis and Research",
+                    "location": {
+                        "city": "Atlanta",
+                        "state": "Georgia"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "August",
+                                "year": "2011"
+                            }
+                        },
+                        "to": {
+                            "date": {
+                                "month": "December",
+                                "year": "2011"
+                            }
+                        }
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "OPAR Science and Technology Policy Explorer",
+                                "emphasis": "Developed Data Collection and Visualization tools for the Science and Technology Policy Explorer"
+                            },
+                            {
+                                "emphasis": "Maintained the Mediawiki Platform for the Science and Technology Policy Primer",
+                                "url": "http://stipolicywiki.gatech.edu/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "jobtitle": "Research Assistant",
+                    "employer": "Emory University, Department of Political Science",
+                    "location": {
+                        "city": "Atlanta",
+                        "state": "Georgia"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "October",
+                                "year": "2009"
+                            }
+                        },
+                        "to": {}
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "Comparative Law Project",
+                                "emphasis": "Mined and aggregated data from Supreme and Constitutional Court case files world-wide for analysis",
+                                "url": "http://cerl.wustl.edu/project/compLaw.php?pg=overview"
+                            },
+                            {
+                                "emphasis": "Coded a dataset of unique United Nations Security Council action, derived from raw text of UN Security Council Resolutions",
+                                "url": "http://userwww.service.emory.edu/~kbeards/UNSCdata-dates&votes-post.csv"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "jobtitle": "Teacher/Tutor",
+                    "employer": "The Princeton Review",
+                    "location": {
+                        "city": "Atlanta",
+                        "state": "Georgia"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "January",
+                                "year": "2008"
+                            }
+                        },
+                        "to": {
+                            "date": {
+                                "month": "May",
+                                "year": "2012"
+                            }
+                        }
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "Teaching",
+                                "#text": "Teach SAT, ACT, and GRE classes and small groups instructions (SGIs), and administer diagnostic exams"
+                            },
+                            {
+                                "-title": "Tutoring",
+                                "#text": "Tutor SAT and ACT students in one-on-one and small group tutorials, analyze diagnostic exam result"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "-targets": "cs,ir,analytics,webdev",
+                    "jobtitle": "Intern",
+                    "employer": "Georgia Tech Research Institute, Office of Policy Analysis and Research",
+                    "location": {
+                        "city": "Atlanta",
+                        "state": "Georgia"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "May",
+                                "year": "2011"
+                            }
+                        },
+                        "to": {
+                            "date": {
+                                "month": "August",
+                                "year": "2011"
+                            }
+                        }
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "Science and Technology Legislative Landscape 2011",
+                                "-targets": "cs,ir,analytics,webdev",
+                                "emphasis": "Coded a dataset of legislative characteristics from raw text of Science and Technology legislation originating in U.S. states' legislatures",
+                                "url": "http://www.opar.gtri.gatech.edu/node/38"
+                            },
+                            {
+                                "-title": "Science and Technology Policy Primer",
+                                "-targets": "cs,ir,analytics,webdev",
+                                "emphasis": "Established Mediawiki platform for the Science and Technology Policy Primer",
+                                "url": "http://stipolicyprimer.gatech.edu/"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "-targets": "cs,ir,analytics",
+                    "jobtitle": "Independent Study",
+                    "employer": "Georgia Tech Department of International Affairs",
+                    "location": {
+                        "city": "Atlanta",
+                        "state": "Georgia"
+                    },
+                    "period": {
+                        "from": {
+                            "date": {
+                                "month": "January",
+                                "year": "2011"
+                            }
+                        },
+                        "to": {
+                            "date": {
+                                "month": "December",
+                                "year": "2011"
+                            }
+                        }
+                    },
+                    "projects": {
+                        "project": [
+                            {
+                                "-title": "du Jour and de facto Policy",
+                                "-targets": "cs,ir,analytics",
+                                "emphasis": "Researched the discrepancy between top-level policy and defense spending priorities in the U.S. Defense Budget"
+                            },
+                            {
+                                "-title": "Rediscovering the Democratic Peace: An Application of Self-Organizing Maps for the Analysis of Social Science Data",
+                                "-targets": "cs,ir,analytics",
+                                "emphasis": "Produce a proof-of-concept paper using Self-Organizing Maps to empirically identify the Democratic Peace"
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "pubs": {
+            "pub": [
+                {
+                    "-targets": "cs,ir,analytics,webdev",
+                    "author": [
+                        "Laura Cassani",
+                        "Alper Caglayan",
+                        "Will Morgan",
+                        "Liz Mooney",
+                        "Anthony Boyles",
+                        "Bryan Weiss."
+                    ],
+                    "artTitle": "Semantic Integration of Socio-Cultural Knowledge for Complex Operations",
+                    "publisher": "4th International Conference on Applied Human Factors and Ergonomics",
+                    "date": {
+                        "month": "July",
+                        "year": "2012"
+                    }
+                },
+                {
+                    "-targets": "cs,ir,analytics,webdev",
+                    "author": [
+                        "Anthony Boyles",
+                        "Joshua Cothran"
+                    ],
+                    "artTitle": "PolicyExplorer: A Platform for Aggregation, Analysis, and Reporting",
+                    "publisher": "GTRI Technical Seminar: Big Data, Analytics and HPC",
+                    "date": {
+                        "dayOfMonth": "9",
+                        "month": "December",
+                        "year": "2011"
+                    }
+                }
+            ]
+        },
+        "skillarea": {
+            "title": "Skills",
+            "skillset": [
+                {
+                    "skills": {
+                        "skill": [
+                            {
+                                "-targets": "cs,webdev",
+                                "#text": "Java"
+                            },
+                            {
+                                "-targets": "cs,webdev",
+                                "#text": "PHP"
+                            },
+                            {
+                                "-targets": "cs,analytics,ir",
+                                "#text": "R"
+                            },
+                            {
+                                "-targets": "cs,webdev",
+                                "#text": "Javascript"
+                            },
+                            {
+                                "-targets": "cs,webdev",
+                                "#text": "PHP"
+                            },
+                            {
+                                "-targets": "cs,webdev",
+                                "#text": "HTML"
+                            },
+                            {
+                                "-targets": "webdev",
+                                "#text": "CSS"
+                            },
+                            {
+                                "-targets": "webdev",
+                                "#text": "WordPress"
+                            },
+                            {
+                                "-targets": "webdev,analytics",
+                                "#text": "Mediawiki"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "Drupal"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "MySQL"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "PostgreSQL"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "OpenLayers"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics,ir",
+                                "#text": "Statistical Analysis"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "SPSS"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "Semantic MediaWiki"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "System Dynamic Modeling"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "Stella"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "Netlogo"
+                            },
+                            {
+                                "-targets": "cs,analytics,ir",
+                                "#text": "Agent-Based Modeling"
+                            },
+                            {
+                                "-targets": "cs,analytics",
+                                "#text": "Netlogo"
+                            },
+                            {
+                                "-targets": "cs,webdev,analytics",
+                                "#text": "Geographic Information Systems"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "ArcGIS"
+                            },
+                            {
+                                "-targets": "analytics",
+                                "#text": "QuantumGIS"
+                            },
+                            {
+                                "-targets": "webdev,analytics",
+                                "#text": "OpenLayers"
+                            },
+                            {
+                                "-targets": "analytics,ir",
+                                "#text": "Formal Modeling"
+                            },
+                            {
+                                "-targets": "analytics,ir",
+                                "#text": "Game Theory"
+                            },
+                            {
+                                "-targets": "analytics,ir",
+                                "#text": "Scenario Writing"
+                            },
+                            {
+                                "-targets": "analytics,ir",
+                                "#text": "Path Gaming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "-id": "languages",
+                    "-targets": "analytics,ir",
+                    "title": "Languages",
+                    "skill": [
+                        {
+                            "-id": "mandarin",
+                            "-level": "beginning",
+                            "#text": "Mandarin Chinese"
+                        },
+                        {
+                            "-id": "english",
+                            "-level": "fluent",
+                            "#text": "English"
+                        }
+                    ]
+                }
+            ]
+        },
+        "interests": {
+            "interest": [
+                {
+                    "-targets": "ir,analytics",
+                    "title": "Assassinations"
+                },
+                {
+                    "-targets": "ir,analytics",
+                    "title": "Interstate Conflict"
+                },
+                {
+                    "-targets": "ir,analytics",
+                    "title": "Intrastate Conflict"
+                },
+                {
+                    "-targets": "ir,analytics",
+                    "title": "Arms Markets"
+                },
+                {
+                    "-targets": "ir,analytics",
+                    "title": "Science and Technology Policy"
+                },
+                {
+                    "-targets": "cs,analytics",
+                    "title": "Data Mining"
+                },
+                {
+                    "-targets": "ir,cs,analytics",
+                    "title": "Analytics"
+                },
+                {
+                    "-targets": "cs,analytics",
+                    "title": "Geographic Information Systems"
+                },
+                {
+                    "-targets": "cs,analytics,webdev",
+                    "title": "Semantic Data Systems"
+                },
+                {
+                    "-targets": "cs,webdev",
+                    "title": "Content Management Systems"
+                }
+            ]
+        }
+    }
+}
